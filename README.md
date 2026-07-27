@@ -157,17 +157,17 @@ Perfect for birthdays, anniversaries, and special occasions.
 <div class="cards">
 
 <div class="card">
-<h3>🎂 Fresh Ingredients</h3>
+<h3> Fresh Ingredients</h3>
 <p>Made daily using premium chocolate, fresh cream, and seasonal fruits.</p>
 </div>
 
 <div class="card">
-<h3>🍒 Beautiful Decoration</h3>
+<h3> Beautiful Decoration</h3>
 <p>Professionally decorated cakes for birthdays, weddings, and celebrations.</p>
 </div>
 
 <div class="card">
-<h3>🚚 Fast Delivery</h3>
+<h3> Fast Delivery</h3>
 <p>Same-day delivery available in selected locations.</p>
 </div>
 
@@ -181,7 +181,7 @@ Perfect for birthdays, anniversaries, and special occasions.
 
 <p>Email: info@sweetcakeshop.com</p>
 
-<p>Phone: 92844857351 </p>
+<p>Phone: 9284485735 </p>
 
 <p>Open: Monday - Sunday | 9:00 AM - 9:00 PM</p>
 
