@@ -181,7 +181,7 @@ Perfect for birthdays, anniversaries, and special occasions.
 
 <p>Email: info@sweetcakeshop.com</p>
 
-<p>Phone: 92844857351 234 567 890</p>
+<p>Phone: 92844857351 </p>
 
 <p>Open: Monday - Sunday | 9:00 AM - 9:00 PM</p>
 
