@@ -122,7 +122,7 @@ footer{
 <body>
 
 <header>
-<h1>🍰 Sweet Cake Shop</h1>
+<h1> Sweet Cake Shop</h1>
 <p>Fresh Cakes | Birthday Cakes | Wedding Cakes</p>
 </header>
 
@@ -181,7 +181,7 @@ Perfect for birthdays, anniversaries, and special occasions.
 
 <p>Email: info@sweetcakeshop.com</p>
 
-<p>Phone: +1 234 567 890</p>
+<p>Phone: 92844857351 234 567 890</p>
 
 <p>Open: Monday - Sunday | 9:00 AM - 9:00 PM</p>
 
